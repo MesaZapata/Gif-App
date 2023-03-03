@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiKeyGifs: 'cpvOmjrxnU9NwlJg8OtJsIt1RR72MkDl'
 };
